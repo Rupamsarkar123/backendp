@@ -2,6 +2,7 @@
   "name": "professional-backend-project",
   "version": "1.0.0",
   "description": "A backend at my channel",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
